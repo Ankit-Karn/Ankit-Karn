@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ankit-Karn
-- 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning FullStack Javascript
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Frontend Development
 - 📫 You can reach me via email-ankitkarn10@gmail.com
 
 <!---
