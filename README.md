@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ankit-Karn
-- 👀 I’m interested in Web Development
-- 🌱 skilled in React, Redux toolkit, and next.js
-- 📫 You can reach me via email-ankitkarn10@gmail.com
+Hi, I’m @Ankit-Karn
+I’m passionate about development and have experience with Next.js, MERN stack, and I'm currently exploring Web3 technologies.
+
+Feel free to reach out to me at ankitkarn10@gmail.com.
